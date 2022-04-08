@@ -14,7 +14,7 @@ Imports System.Reflection
 <Assembly: AssemblyProduct("")>
 <Assembly: AssemblyCopyright("")>
 <Assembly: AssemblyTrademark("")> 
-<Assembly: NeutralResourcesLanguage("en")>
+<Assembly: NeutralResourcesLanguage("")>
 
 ' Version information for an assembly consists of the following four values:
 '
