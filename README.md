@@ -1,3 +1,6 @@
+> [!WARNING]
+> This legacy library was used by SkyCD 1.0. It is unsupported and is not used by SkyCD 3.0 or later. This repository is archived.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Latest Release](https://img.shields.io/github/v/release/SkyCD/SkyCD.Core.dll)](https://github.com/SkyCD/SkyCD.Core.dll/releases)
 
 # SkyCD.Core.dll
